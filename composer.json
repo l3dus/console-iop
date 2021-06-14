@@ -1,0 +1,8 @@
+{
+  "name": "luis.eduardo/interop",
+  "autoload": {
+    "psr-4": {
+      "Interop\\Console\\": "src/"
+    }
+  }
+}
