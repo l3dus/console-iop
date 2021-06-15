@@ -1,0 +1,9 @@
+Options -Indexes
+
+<FilesMatch "\.env$">
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "\.json$">
+    Deny from all
+</FilesMatch>
