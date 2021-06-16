@@ -7,7 +7,7 @@
     
     $user = $loggedUser ? $loggedUser['user'].' - '.' <a href="logout.php">Sair</a>' : '';
 
-    //var_dump($_SESSION['user']);
+    var_dump($_SESSION['user']);
 
 ?>
 

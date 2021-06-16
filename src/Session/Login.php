@@ -2,6 +2,7 @@
 
 namespace Interop\Console\Session;
 
+
 class Login {
 
     private static function Init() {
@@ -17,6 +18,7 @@ class Login {
     }
 
     public static function Login($domain, $user, $token) {
+        
         self::Init();
 
         $_SESSION['user'] = [
@@ -24,6 +26,7 @@ class Login {
             'domain' => $domain,
             'user' => $user
         ];
+
 
         header('Location: index.php');
         exit;

@@ -5,6 +5,8 @@ require __DIR__.'/bootstrap/app.php';
 use Interop\Console\Session\Login;
 use Interop\Console\Service\Logar;
 
+
+
 Login::requireLogout();
 
 $alertaLogin = '';
@@ -22,11 +24,11 @@ if(isset($_POST['action'])) {
             $logar = new Logar();
 
             $exec = $logar->execute($domain, $user, $pass);
-
+            
+         
             if($exec === false){
                 $alertaLogin = 'E-mail e/ou senha inválidos';
-            }
-            
+            }            
 
             break;
     }

@@ -1,0 +1,11 @@
+[ 16-06-2021 13:09:37 ] - Teste
+[ 16-06-2021 13:09:38 ] - Teste
+[ 16-06-2021 13:13:48 ] - Login efetuado pelo usuário DPOATJ1\l.esantos
+[ 16-06-2021 13:13:48 ] - Teste
+[ 16-06-2021 13:15:41 ] - Teste IP: 172.19.0.1
+[ 16-06-2021 13:15:58 ] - Teste | IP: 172.19.0.1
+[ 16-06-2021 13:16:12 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 16-06-2021 13:16:12 ] - Teste | IP: 172.19.0.1
+[ 16-06-2021 13:16:36 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 16-06-2021 13:38:19 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 16-06-2021 13:38:19 ] - Ticket 112781 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1

@@ -3,11 +3,13 @@
 namespace Interop\Console\Service;
 
 use Interop\Console\Session\Login;
+use Interop\Console\Service\GeraLog;
 
 class Logar {
+    
 
     public function execute($domain, $user, $pass) {
-
+       
         $userFull = $domain.$user;
         $user = $userFull;
 
@@ -47,6 +49,9 @@ class Logar {
 
         ///////////////////////////////////////
         if($token) {
+
+            GeraLog::execute("Login efetuado pelo usuário ".$user);
+            
             $createSession = new Login();
 
             $exec = $createSession->Login($domain, $user, $token);
