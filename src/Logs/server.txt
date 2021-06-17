@@ -154,3 +154,12 @@
 [ 17-06-2021 17:58:07 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
 [ 17-06-2021 17:58:08 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
 [ 17-06-2021 17:58:08 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 18:01:37 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 18:01:47 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 18:01:48 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 18:01:48 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 18:31:43 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 19:57:21 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 19:58:55 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 20:04:03 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 20:09:45 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1

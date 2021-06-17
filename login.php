@@ -34,6 +34,4 @@ if(isset($_POST['action'])) {
     }
 }
 
-include __DIR__.'/views/includes/header.php';
 include __DIR__.'/views/form-login.php';
-include __DIR__.'/views/includes/footer.php';
