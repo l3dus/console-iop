@@ -6,6 +6,7 @@ require __DIR__.'/bootstrap/app.php';
 
 use Interop\Console\Session\Login;
 use Interop\Console\Service\UpdateStatus;
+use Interop\Console\Service\RecuperaTicketsResolvidos5Dias;
 
 
 //include __DIR__.'/views/includes/header.php';
@@ -21,4 +22,6 @@ if(getenv('AMBIENTE') === 'PRD') {
 $updateStatus = new UpdateStatus();
 $exec = $updateStatus->execute($url);
 print_r($exec);
+
+
 

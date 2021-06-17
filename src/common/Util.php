@@ -18,4 +18,14 @@ class Util
         return $ip;
     }
 
+    public static function execute($item){
+
+        for ($i = 0; $i <= count($item); $i++) {
+            //print_r($item[$i]['idsolicitacaoservico']);
+            $data[] = $item[$i]['idsolicitacaoservico'];
+        }
+        return $data;
+
+    }
+
 }

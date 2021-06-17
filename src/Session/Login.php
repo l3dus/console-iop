@@ -32,6 +32,8 @@ class Login {
         exit;
     }
 
+
+
     public static function isLogged() {
         self::Init();
         

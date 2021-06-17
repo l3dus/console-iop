@@ -9,3 +9,148 @@
 [ 16-06-2021 13:16:36 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
 [ 16-06-2021 13:38:19 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
 [ 16-06-2021 13:38:19 ] - Ticket 112781 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:16:51 ] - Ticket 103743 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:16:51 ] - Ticket 139860 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:16:52 ] - Ticket 165850 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:46:39 ] - Ticket 103743 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:46:40 ] - Ticket 139860 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 14:46:40 ] - Ticket 165850 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 17:02:58 ] - Ticket 103743 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 17:02:59 ] - Ticket 139860 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 17:02:59 ] - Ticket 165850 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 18:31:08 ] - Ticket 103743 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 18:31:10 ] - Ticket 139860 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 18:31:12 ] - Ticket 165850 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:32 ] - Ticket 242851 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:32 ] - Ticket 243143 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:33 ] - Ticket 241417 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:33 ] - Ticket 238974 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:34 ] - Ticket 238902 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:34 ] - Ticket 243912 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:34 ] - Ticket 244643 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:34 ] - Ticket 244732 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:34 ] - Ticket 88932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:35 ] - Ticket 245883 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:35 ] - Ticket 245892 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:35 ] - Ticket 245922 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:35 ] - Ticket 245932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:36 ] - Ticket 245931 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:37 ] - Ticket 246082 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:38 ] - Ticket 247391 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:38 ] - Ticket 247401 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:39 ] - Ticket 247523 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:39 ] - Ticket 247602 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:39 ] - Ticket 247663 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:39 ] - Ticket 247782 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:39 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:40 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:51 ] - Ticket 242851 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:51 ] - Ticket 243143 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:51 ] - Ticket 241417 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:51 ] - Ticket 238974 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:51 ] - Ticket 238902 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:52 ] - Ticket 243912 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:52 ] - Ticket 244643 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:52 ] - Ticket 244732 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:52 ] - Ticket 88932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:52 ] - Ticket 245883 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 245892 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 245922 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 245932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 245931 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 246082 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:53 ] - Ticket 247391 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket 247401 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket 247523 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket 247602 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket 247663 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket 247782 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:54 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:57:55 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:34 ] - Ticket 242851 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:34 ] - Ticket 243143 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:35 ] - Ticket 241417 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:35 ] - Ticket 238974 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:35 ] - Ticket 238902 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:35 ] - Ticket 243912 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:36 ] - Ticket 244643 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:37 ] - Ticket 244732 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:37 ] - Ticket 88932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:37 ] - Ticket 245883 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:37 ] - Ticket 245892 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:38 ] - Ticket 245922 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:38 ] - Ticket 245932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:38 ] - Ticket 245931 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:38 ] - Ticket 246082 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247391 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247401 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247523 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247602 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247663 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:39 ] - Ticket 247782 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:40 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:58:40 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:08 ] - Ticket 242851 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:08 ] - Ticket 243143 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:09 ] - Ticket 241417 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:09 ] - Ticket 238974 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:09 ] - Ticket 238902 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:09 ] - Ticket 243912 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:09 ] - Ticket 244643 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:10 ] - Ticket 244732 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:10 ] - Ticket 88932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:10 ] - Ticket 245883 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:10 ] - Ticket 245892 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:11 ] - Ticket 245922 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:11 ] - Ticket 245932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:11 ] - Ticket 245931 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:11 ] - Ticket 246082 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:11 ] - Ticket 247391 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:12 ] - Ticket 247401 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:12 ] - Ticket 247523 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:12 ] - Ticket 247602 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:13 ] - Ticket 247663 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:13 ] - Ticket 247782 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:14 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 21:59:14 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:39 ] - Ticket 242851 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:40 ] - Ticket 243143 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:43 ] - Ticket 241417 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:44 ] - Ticket 238974 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:46 ] - Ticket 238902 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:47 ] - Ticket 243912 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:48 ] - Ticket 244643 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:50 ] - Ticket 244732 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:52 ] - Ticket 88932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:53 ] - Ticket 245883 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:55 ] - Ticket 245892 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:56 ] - Ticket 245922 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:57 ] - Ticket 245932 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:00:59 ] - Ticket 245931 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:00 ] - Ticket 246082 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:02 ] - Ticket 247391 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:03 ] - Ticket 247401 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:05 ] - Ticket 247523 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:06 ] - Ticket 247602 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:08 ] - Ticket 247663 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:09 ] - Ticket 247782 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:09 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 16-06-2021 22:01:10 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:37:06 ] - Login efetuado pelo usuário 4biz.local\anuva | IP: 172.19.0.1
+[ 17-06-2021 17:41:25 ] - Token Gerado com sucesso pela rotina: 4biz.local\anuva | IP: 172.19.0.1
+[ 17-06-2021 17:41:47 ] - Token Gerado com sucesso pela rotina: 4biz.local\anuva | IP: 172.19.0.1
+[ 17-06-2021 17:42:25 ] - Token Gerado com sucesso pela rotina: 4biz.local\anuva | IP: 172.19.0.1
+[ 17-06-2021 17:43:43 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 17:47:45 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 17:57:05 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 17:57:21 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 17:57:24 ] - Ticket 114152 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:26 ] - Ticket 115720 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:28 ] - Ticket 28167 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:29 ] - Ticket 188952 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:31 ] - Ticket 177588 finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:31 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:57:32 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:58:07 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 17-06-2021 17:58:08 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 17-06-2021 17:58:08 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1

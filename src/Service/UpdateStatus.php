@@ -2,38 +2,69 @@
 
 namespace Interop\Console\Service;
 
+use Interop\Console\Service\GeraLog;
+
 class UpdateStatus
 {
+
+
     public function execute($url) {
+        $action = 'UpdateStatus';
+        $token = new GeraToken();
+        $sessionId = $token->execute($action);
+
+        //$sessionId = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1bmtub3duIiwiZXhwIjoxNjIzOTUyOTU1LCJjb250cm9sIjpudWxsLCJpc3N1ZWRBdCI6MTYyMzk1MjM1NTUwMywibG9jYWxlIjoiZW5fVVMiLCJjbGllbnRfaWQiOiJ1bmtub3duIiwidXNlcm5hbWUiOiJEUE9BVEoxXFxsLmVzYW50b3MifQ.I0EY7JkjFqfy1TVrKgQOowM1gZDv2rShbqjW4FMtlu07uneaygCQiXfSQuYYhQwtQfZox0KSJl98fjcnKc3bgA";
+
+        $tickets = new RecuperaTicketsResolvidos5Dias();
+        $exec = $tickets->execute($sessionId);
+
+        foreach ($exec as $e) {
+            for ($i = 0; $i <= count($e); $i++) {
+                //print_r($item[$i]['idsolicitacaoservico']);
+                $result[] = $e[$i];
+
+            }
+
+        }
+
+        foreach ($result as $ticket) {
+            $data = [
+                'sessionID' => $sessionId,
+                'number' => $ticket,
+                'synchronize' => true,
+                'status' => [
+                    'code' => 'CLOSED',
+                    'details' => 'Chamado encerrado via API | Interop Console'
+                ]
+            ];
+
+            $json = json_encode($data);
 
 
-        $data = [
-            'sessionID' => 'eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2MjM4NTc0MDQsIm5hbWUiOiJMdWl6IEVkdWFyZG8gU291emEgQW1vcmltIGRvcyBTYW50b3MiLCJjb250cm9sIjoiN2IyMjY5NzAyMjNhMjIzMTMwMmUzMDJlMzkyZTMxMzEzMjIyMmMyMjY4NmY3Mzc0MjIzYTIyMzEzMDJlMzAyZTM5MmUzMTMxMzIyMjdkIiwiaXNzdWVkQXQiOjE2MjM4NTAyMDQ2NzMsImxvY2FsZSI6ImVuIiwiY2xpZW50X2lkIjoidW5rbm93biIsImV4cGlyZXNBdCI6MTYyMzg1NzQwNDY3MywidGltZW91dCI6NzIwMCwidXNlcm5hbWUiOiJEUE9BVEoxXFxsLmVzYW50b3MifQ.52_umEUUDKSMQAmhWmK3k2UbXmiy7VhV69csUFSAFwUiYjUe-9OT_TOQuJTbz24WP1h7A1uti1AVVA5VOsbULg',
-            'number' => '112781',
-            'synchronize' => true,
-            'status' => [
-                'code' => 'CLOSED',
-                'details' => 'Chamado encerrado via API | Interop Console'
-            ]
-        ];
 
-        $json = json_encode($data);
+            $headers = [
+                'Content-Type: application/json',
+                'Accept: application/json'
+            ];
 
-        $headers = [
-            'Content-Type: application/json',
-            'Accept: application/json'
-        ];
+            $context = stream_context_create([
+                'http' => [
+                    'method' => 'POST',
+                    'header' => $headers,
+                    'content' => $json
+                ],
+            ]);
 
-        $context = stream_context_create([
-            'http' => [
-                'method' => 'POST',
-                'header' => $headers,
-                'content' => $json
-            ],
-        ]);
 
-        $execute = file_get_contents($url, false, $context);
 
-        return $json;
+            $execute = file_get_contents($url, false, $context);
+
+
+            GeraLog::execute("Ticket ".$ticket." finalizado com sucesso via api de automação v1.0");
+        }
+
+        return true;
     }
+
+
 }
