@@ -163,3 +163,4 @@
 [ 17-06-2021 19:58:55 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
 [ 17-06-2021 20:04:03 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
 [ 17-06-2021 20:09:45 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 17-06-2021 20:56:38 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1

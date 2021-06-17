@@ -25,7 +25,7 @@
            </div>
 <hr>
             <div class="pull-right">
-                <a href="" type="button" class="btn btn-default"><i class="mdi mdi-cloud-download" ></i> Baixar logs</a>
+                <a href="./src/Logs/server.txt" type="button" class="btn btn-default"><i class="mdi mdi-cloud-download" ></i> Baixar logs</a>
             </div>
 
         </div>
