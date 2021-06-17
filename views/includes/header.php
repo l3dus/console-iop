@@ -53,7 +53,7 @@
         <!-- LOGO -->
         <div class="topbar-left">
             <div class="">
-                <a href="index.html" class="logo">
+                <a href="#" class="logo">
                     <img src="./views/assets/images/logo.png" alt="logo" class="logo-lg" style="height: 55px; padding-top: 1px" />
                     <img src="./views/assets/images/logo.png" alt="logo" class="logo-sm hidden" />
                 </a>
