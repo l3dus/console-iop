@@ -8,7 +8,6 @@ Login::requireLogin();
 
 include __DIR__.'/views/includes/header.php';
 include __DIR__.'/views/includes/sidebar.php';
-include __DIR__.'/views/dashboard.php';
 include __DIR__.'/views/includes/footer.php';
 ?>
 

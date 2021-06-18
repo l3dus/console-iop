@@ -12,7 +12,7 @@ class GeraToken
 
         
 
-        $domain = "'4biz.local\'";
+        $domain = '4biz.local\\';
         $user = 'anuva';
         $pass = '@nuvA2020';
 
