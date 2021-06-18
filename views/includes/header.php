@@ -1,11 +1,15 @@
 <?php
     //require __DIR__.'/bootstrap/app.php';
+    ini_set('display_errors', 1);
+error_reporting(E_ALL);
 
     use \Console\Session\Login;
 
     $loggedUser = Login::getLoggedUser();
     
     $user = $loggedUser ? $loggedUser['user'].' - '.' <a href="logout.php">Sair</a>' : '';
+
+    
 
 
 ?>
