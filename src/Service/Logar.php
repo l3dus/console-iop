@@ -33,13 +33,7 @@ class Logar {
             ],
         ]);
 
-        if(getenv('AMBIENTE') === 'DEV') {
-            $url = getenv('URL_DEV');
-        }
-
-        if(getenv('AMBIENTE') === 'PRD') {
-            $url = getenv('URL_PRD');
-        }
+        $url = 'https://cadi-dev.cloud4biz.com/cit-esi-web/rest/security/token';
 
         
 

@@ -8,7 +8,7 @@ class RecuperaTicketsResolvidos5Dias
 {
     public function execute($sessionId) {
 
-        $url = getenv('RECUPERA_TICKET');;
+        $url = 'http://cadi-dev.cloud4biz.com/cit-esi-web/rest/esi/execute/resolvido?response=retorno';
 
         $headers = [
             'authentication-token: '.$sessionId,
