@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Interop\Console\Service;
+namespace Console\Service;
 
 
-use Interop\Console\Session\Login;
+use Console\Session\Login;
 
 class GeraToken
 {

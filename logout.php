@@ -2,6 +2,6 @@
 
 require __DIR__.'/bootstrap/app.php';
 
-use Interop\Console\Session\Login;
+use Console\Session\Login;
 
 Login::logout();

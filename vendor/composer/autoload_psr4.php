@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Interop\\Console\\' => array($baseDir . '/src'),
+    'Console\\' => array($baseDir . '/src'),
 );

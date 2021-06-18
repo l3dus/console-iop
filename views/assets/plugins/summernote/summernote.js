@@ -736,12 +736,12 @@
     };
 
     /**
-     * returns common ancestor node between two nodes.
+     * returns Common ancestor node between two nodes.
      *
      * @param {Node} nodeA
      * @param {Node} nodeB
      */
-    var commonAncestor = function (nodeA, nodeB) {
+    var CommonAncestor = function (nodeA, nodeB) {
       var ancestors = listAncestor(nodeA);
       for (var n = nodeB; n; n = n.parentNode) {
         if ($.inArray(n, ancestors) > -1) { return n; }
@@ -1493,7 +1493,7 @@
       listNext: listNext,
       listPrev: listPrev,
       listDescendant: listDescendant,
-      commonAncestor: commonAncestor,
+      CommonAncestor: CommonAncestor,
       wrap: wrap,
       insertAfter: insertAfter,
       appendChildNodes: appendChildNodes,
@@ -2557,11 +2557,11 @@
       };
 
       /**
-       * returns commonAncestor of range
-       * @return {Element} - commonAncestor
+       * returns CommonAncestor of range
+       * @return {Element} - CommonAncestor
        */
-      this.commonAncestor = function () {
-        return dom.commonAncestor(sc, ec);
+      this.CommonAncestor = function () {
+        return dom.CommonAncestor(sc, ec);
       };
 
       /**
@@ -3689,7 +3689,7 @@
      * @param {Boolean} isShift
      */
     this.tab = function (rng, isShift) {
-      var cell = dom.ancestor(rng.commonAncestor(), dom.isCell);
+      var cell = dom.ancestor(rng.CommonAncestor(), dom.isCell);
       var table = dom.ancestor(cell, dom.isTable);
       var cells = dom.listDescendant(table, dom.isCell);
 

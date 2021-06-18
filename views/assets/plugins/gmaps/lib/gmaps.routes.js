@@ -40,9 +40,9 @@ GMaps.prototype.getRoutes = function(options) {
   delete request_options.error;
 
   var self = this,
-      service = new google.maps.DirectionsService();
+      Service = new google.maps.DirectionsService();
 
-  service.route(request_options, function(result, status) {
+  Service.route(request_options, function(result, status) {
     if (status === google.maps.DirectionsStatus.OK) {
       for (var r in result.routes) {
         if (result.routes.hasOwnProperty(r)) {
@@ -82,14 +82,14 @@ GMaps.prototype.getElevations = function(options) {
   var callback = options.callback;
   delete options.callback;
 
-  var service = new google.maps.ElevationService();
+  var Service = new google.maps.ElevationService();
 
   //location request
   if (!options.path) {
     delete options.path;
     delete options.samples;
 
-    service.getElevationForLocations(options, function(result, status) {
+    Service.getElevationForLocations(options, function(result, status) {
       if (callback && typeof(callback) === "function") {
         callback(result, status);
       }
@@ -101,7 +101,7 @@ GMaps.prototype.getElevations = function(options) {
       samples : options.samples
     };
 
-    service.getElevationAlongPath(pathRequest, function(result, status) {
+    Service.getElevationAlongPath(pathRequest, function(result, status) {
      if (callback && typeof(callback) === "function") {
         callback(result, status);
       }

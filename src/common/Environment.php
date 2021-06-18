@@ -1,6 +1,6 @@
 <?php
 
-namespace Interop\Console\Common;
+namespace Console\Common;
 
 class Environment {
 

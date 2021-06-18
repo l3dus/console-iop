@@ -1,8 +1,8 @@
 <?php
 
-namespace Interop\Console\Service;
+namespace Console\Service;
 
-use Interop\Console\common\Util;
+use Console\Common\Util;
 
 class GeraLog
 {

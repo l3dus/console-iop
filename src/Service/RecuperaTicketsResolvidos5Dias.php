@@ -1,8 +1,8 @@
 <?php
 
-namespace Interop\Console\Service;
+namespace Console\Service;
 
-use Interop\Console\Service\GeraLog;
+use Console\Service\GeraLog;
 
 class RecuperaTicketsResolvidos5Dias
 {

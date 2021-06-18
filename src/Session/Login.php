@@ -1,6 +1,6 @@
 <?php
 
-namespace Interop\Console\Session;
+namespace Console\Session;
 
 
 class Login {

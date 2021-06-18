@@ -1,6 +1,6 @@
 <?php
 
-namespace Interop\Console\common;
+namespace Console\Common;
 
 class Util
 {

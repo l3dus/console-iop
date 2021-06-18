@@ -1,9 +1,9 @@
 <?php
 
-namespace Interop\Console\Service;
+namespace Console\Service;
 
-use Interop\Console\Session\Login;
-use Interop\Console\Service\GeraLog;
+use Console\Session\Login;
+use Console\Service\GeraLog;
 
 class Logar {
     

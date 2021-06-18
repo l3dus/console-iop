@@ -2,8 +2,8 @@
 
 require __DIR__.'/bootstrap/app.php';
 
-use Interop\Console\Session\Login;
-use Interop\Console\Service\Logar;
+use Console\Session\Login;
+use Console\Service\Logar;
 
 
 

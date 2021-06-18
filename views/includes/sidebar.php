@@ -14,7 +14,7 @@
                 <ul class="metisMenu nav" id="side-menu">
                     <li><a href="./index.php"><i class="ti-home"></i> Dashboard </a></li>
                     <li><a href="./jobs.php"><i class="mdi mdi-reload"></i> Jobs </a></li>
-                    <li><a href="./tickets.php"><i class="mdi mdi-slack"></i> Tickets em massa </a></li>
+                    <li ><a href="#"><i class="mdi mdi-slack"></i> Tickets em massa </a></li>
                     <hr>
                     <li><a href="./logs.php"><i class="mdi mdi-note-text"></i> Logs </a></li>
 

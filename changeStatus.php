@@ -4,9 +4,9 @@
 
 require __DIR__.'/bootstrap/app.php';
 
-use Interop\Console\Session\Login;
-use Interop\Console\Service\UpdateStatus;
-use Interop\Console\Service\RecuperaTicketsResolvidos5Dias;
+use Console\Session\Login;
+use Console\Service\UpdateStatus;
+use Console\Service\RecuperaTicketsResolvidos5Dias;
 
 
 //include __DIR__.'/views/includes/header.php';
