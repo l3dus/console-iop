@@ -177,3 +177,37 @@
 [ 18-06-2021 20:09:44 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
 [ 18-06-2021 20:09:45 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
 [ 18-06-2021 20:09:45 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:19:24 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:19:24 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:19:25 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:19:25 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:19:25 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:19:25 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:15 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:20:15 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:15 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:18 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:20:19 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:19 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:28 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:20:29 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:29 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:31 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:20:32 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:32 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:20:50 ] - Login efetuado pelo usuário DPOATJ1\l.esantos | IP: 172.19.0.1
+[ 18-06-2021 20:21:01 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:21:02 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:21:03 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:37:26 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:37:27 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:37:27 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:37:36 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:37:37 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:37:37 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:42:37 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 20:42:38 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 20:42:39 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 21:41:41 ] - Token Gerado com sucesso pela rotina: UpdateStatus | IP: 172.19.0.1
+[ 18-06-2021 21:41:43 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1
+[ 18-06-2021 21:41:43 ] - Ticket  finalizado com sucesso via api de automação v1.0 | IP: 172.19.0.1

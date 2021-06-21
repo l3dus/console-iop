@@ -29,6 +29,7 @@ class RecuperaTicketsResolvidos5Dias
 
         $array = json_decode($response, true);
 
+        //print_r($array);exit;
 
         $func = function($item){
 

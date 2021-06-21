@@ -11,13 +11,7 @@ use Console\Service\RecuperaTicketsResolvidos5Dias;
 
 //include __DIR__.'/views/includes/header.php';
 
-if(getenv('AMBIENTE') === 'DEV') {
-    $url = getenv('API_DEV_UPDATESTATUS');
-}
-
-if(getenv('AMBIENTE') === 'PRD') {
-    $url = getenv('API_PRD_UPDATESTATUS');
-}
+$url = 'https://cadi-dev.cloud4biz.com/4biz/services/request/updateStatus';
 
 $updateStatus = new UpdateStatus();
 $exec = $updateStatus->execute($url);

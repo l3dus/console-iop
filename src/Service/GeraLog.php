@@ -10,7 +10,7 @@ class GeraLog
         $dataHora = Util::getDataHora();
         $ip = Util::getIp();
         $fullMsg = '[ '.$dataHora.' ] - '.$msg.' | IP: '.$ip;
-        $file = fopen(__DIR__."/../logs/server.txt", "a");
+        $file = fopen("./src/Logs/server.txt", "a");
         fwrite($file, $fullMsg."\n");
         fclose($file);
     }
