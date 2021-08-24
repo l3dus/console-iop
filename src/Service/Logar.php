@@ -33,7 +33,7 @@ class Logar {
             ],
         ]);
 
-        $url = 'https://cadi-dev.cloud4biz.com/cit-esi-web/rest/security/token';
+        $url = 'https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/cit-esi-web/rest/security/token';
 
         
 
