@@ -12,9 +12,9 @@ class GeraToken
 
         
 
-        $domain = '4biz.local\\';
-        $user = 'anuva';
-        $pass = '@nuvA2020';
+        $domain = 'xxxxxxxxxxx\\';
+        $user = 'xxxxxxxxxx';
+        $pass = 'xxxxxxxxxxxx';
 
         $userFull = $domain.$user;
         $user = $userFull;
@@ -39,7 +39,7 @@ class GeraToken
             ],
         ]);
 
-        $url = 'https://cadi-dev.cloud4biz.com/cit-esi-web/rest/security/token';
+        $url = 'https://xxxxxxxxxxxxxxxxxxxxxxxxx/cit-esi-web/rest/security/token';
 
 
 
