@@ -11,7 +11,7 @@ use Console\Service\RecuperaTicketsResolvidos5Dias;
 
 //include __DIR__.'/views/includes/header.php';
 
-$url = 'https://cadi-dev.cloud4biz.com/4biz/services/request/updateStatus';
+$url = 'https://cccccccxxxxxxxxxxx/4biz/services/request/updateStatus';
 
 $updateStatus = new UpdateStatus();
 $exec = $updateStatus->execute($url);
